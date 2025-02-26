@@ -58,12 +58,3 @@ npm run preview
 # or
 yarn preview
 ```
-
-## Additional Scripts
-
-- Lint your code:
-  ```bash
-  npm run lint
-  # or
-  yarn lint
-  ```
